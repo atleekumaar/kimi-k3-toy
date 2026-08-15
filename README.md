@@ -1,6 +1,7 @@
 # Kimi K3 Mini: Toy Architecture Implementation
 
 A minimal, educational PyTorch implementation of the **Kimi K3** architecture, scaled down to run smoothly on standard CPUs or Google Colab.
+See here ==> https://drive.google.com/file/d/10SHEqhzBe_iG3NYlifsqvlF-8wjuUG51/view?usp=sharing
 
 ---
 
