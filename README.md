@@ -5,7 +5,7 @@ See here ==> https://drive.google.com/file/d/10SHEqhzBe_iG3NYlifsqvlF-8wjuUG51/v
 
 ---
 
-## 🏛️ Architecture Overview & ASCII Diagram
+##  Architecture Overview & ASCII Diagram
 
 The Kimi K3 architecture integrates advanced token mixing, specialized attention mechanisms, and sparse/dense mixture-of-experts (MoE) routing. Below is the structural layout of this toy implementation:
 
